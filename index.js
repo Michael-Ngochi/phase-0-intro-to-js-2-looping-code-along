@@ -11,7 +11,7 @@ return messages;
 }
 
 
-countDown=(num)=>{
+let countDown=(num)=>{
     while(num>=0){
 console.log(num);
 num--;
